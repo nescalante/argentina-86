@@ -1,0 +1,200 @@
+[
+  {
+    "number": 1,
+    "name": "Sergio Almirón", 
+    "position": "Forward",
+    "team": {
+      "country": "Argentina",
+      "name": "Newell's Old Boys"
+    }
+  },
+  {
+    "number": 2,
+    "name": "Sergio Batista", 
+    "position": "Midfielder",
+    "team": {
+      "country": "Argentina",
+      "name": "Argentinos Juniors"
+    }
+  },
+  {
+    "number": 3,
+    "name": "Ricardo Enrique Bochini", 
+    "position": "Midfielder",
+    "team": {
+      "country": "Argentina",
+      "name": "Independiente"
+    }
+  },
+  {
+    "number": 4,
+    "name": "Claudio Borghi", 
+    "position": "Midfielder",
+    "team": {
+      "country": "Argentina",
+      "name": "Argentinos Juniors"
+    }
+  },
+  {
+    "number": 5,
+    "name": "José Luis Brown", 
+    "position": "Defender",
+    "team": {
+      "country": "Argentina",
+      "name": "Deportivo Español"
+    }
+  },
+  {
+    "number": 6,
+    "name": "Daniel Passarella", 
+    "position": "Defender",
+    "team": {
+      "country": "Italia",
+      "name": "Fiorentina"
+    }
+  },
+  {
+    "number": 7,
+    "name": "Jorge Burruchaga", 
+    "position": "Midfielder",
+    "team": {
+      "country": "Francia",
+      "name": "Nantes"
+    }
+  },
+  {
+    "number": 8,
+    "name": "Néstor Clausen", 
+    "position": "Defender",
+    "team": {
+      "country": "Argentina",
+      "name": "Independiente"
+    }
+  },
+  {
+    "number": 9,
+    "name": "José Luis Cuciuffo", 
+    "position": "Defender",
+    "team": {
+      "country": "Argentma",
+      "name": "Vélez Sársfield"
+    }
+  },
+  {
+    "number": 10,
+    "name": "Diego Maradona", 
+    "position": "Midfielder",
+    "team": {
+      "country": "Italia",
+      "name": "SSC Nápoli"
+    }
+  },
+  {
+    "number": 11,
+    "name": "Jorge Valdano", 
+    "position": "Forward",
+    "team": {
+      "country": "España",
+      "name": "Real Madrid"
+    }
+  },
+  {
+    "number": 12,
+    "name": "Héctor Enrique", 
+    "position": "Midfielder",
+    "team": {
+      "country": "Argentina",
+      "name": "River Plate"
+    }
+  },
+  {
+    "number": 13,
+    "name": "Oscar Garré", 
+    "position": "Defender",
+    "team": {
+      "country": "Argentina",
+      "name": "Ferro Carril Oeste"
+    }
+  },
+  {
+    "number": 14,
+    "name": "Ricardo Giusti", 
+    "position": "Midfielder",
+    "team": {
+      "country": "Argentina",
+      "name": "Independiente"
+    }
+  },
+  {
+    "number": 15,
+    "name": "Luis Islas",
+    "position": "Goalkeeper",
+    "team": {
+      "country": "Argentina",
+      "name": "Estudiantes de La Plata"
+    }
+  },
+  {
+    "number": 16,
+    "name": "Julio Olarticoechea", 
+    "position": "Midfielder",
+    "team": {
+      "country": "Argentina",
+      "name": "Boca Juniors"
+    }
+  },
+  {
+    "number": 17,
+    "name": "Pedro Pasculli", 
+    "position": "Forward",
+    "team": {
+      "country": "Italia",
+      "name": "Lecce"
+    }
+  },
+  {
+    "number": 18,
+    "name": "Nery Pumpido", 
+    "position": "Goalkeeper",
+    "team": {
+      "country": "Argentina",
+      "name": "River Plate"
+    }
+  },
+  {
+    "number": 19,
+    "name": "Oscar Ruggeri", 
+    "position": "Defender",
+    "team": {
+      "country": "Argentina",
+      "name": "River Plate"
+    }
+  },
+  {
+    "number": 20,
+    "name": "Carlos Daniel Tapia", 
+    "position": "Midfielder",
+    "team": {
+      "country": "Argentina",
+      "name": "Boca Juniors"
+    }
+  },
+  {
+    "number": 21,
+    "name": "Marcelo Trobbiani", 
+    "position": "Midfielder",
+    "team": {
+      "country": "Colombia",
+      "name": "Millonarios"
+    }
+  },
+  {
+    "number": 22,
+    "name": "Héctor Miguel Zelada", 
+    "position": "Goalkeeper",
+    "team": {
+      "country": "México",
+      "name": "América"
+    }
+  }
+]

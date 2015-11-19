@@ -1,0 +1,37 @@
+{
+  "name": "argentina-86",
+  "version": "0.1.0",
+  "description": "argentina 86 players api",
+  "main": "src/index.js",
+  "directories": {
+    "test": "test"
+  },
+  "dependencies": {
+    "bluebird": "^3.0.5",
+    "lodash": "^3.10.1"
+  },
+  "devDependencies": {
+    "grunt": "^0.4.5",
+    "grunt-contrib-jshint": "^0.11.3",
+    "grunt-mocha-test": "^0.12.7",
+    "mocha": "^2.3.4"
+  },
+  "scripts": {
+    "test": "mocha test/*.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nescalante/argentina-86.git"
+  },
+  "keywords": [
+    "argentina",
+    "mexico",
+    "86"
+  ],
+  "author": "Nicolas Escalante",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/nescalante/argentina-86/issues"
+  },
+  "homepage": "https://github.com/nescalante/argentina-86#readme"
+}
