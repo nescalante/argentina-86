@@ -1,5 +1,7 @@
 # Argentina 86
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/nescalante/argentina-86.svg)](https://greenkeeper.io/)
+
 Argentina 86 players data app used as an introduction to Node
 
 ## Getting started
