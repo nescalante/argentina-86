@@ -4,7 +4,7 @@ Argentina 86 players data app used as an introduction to Node
 
 ## Getting started
 
-- Install node from [https://nodejs.org/](https://nodejs.org/) (version 4.2.2 is ok)
+- Install node from [https://nodejs.org/](https://nodejs.org/)
 - Create a new folder and once in that folder run `npm install argentina-86`
 - Create a new file (called `index.js` for example) with this content:
 
